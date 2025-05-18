@@ -1,0 +1,64 @@
+# Python bytecode - catch all __pycache__ directories and .pyc files anywhere
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+**/.pytest_cache/
+
+# Environment variables and virtual environments
+.env
+
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Project-specific cache directories
+cache/
+cache_pages_dir/
+cache_embeddings_dir/
+vector_cache/
+embedding_cache/
+**/faiss/
+*.faiss
+*.pkl
+*.emb
+
+# IDE settings
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Testing
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Model files that might be large
+*.bin
+*.h5
+*.onnx
+*.pt
+*.pth
+
+# Other files specific to this project
+vectorstore.index
+vectorstore_docstore.pkl
+GitLab_RAG_report.txt
