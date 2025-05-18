@@ -95,7 +95,7 @@ def run_rag_pipeline(query, source=None):
 
 
 def main():
-    st.title("GenAI Chatbot built on Gemini Model")
+    st.title("GenAI Gitlab Chatbot built on Gemini Model")
 
     # Add a source URL selector in the sidebar
     with st.sidebar:
