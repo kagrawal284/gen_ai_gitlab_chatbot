@@ -48,3 +48,7 @@ streamlit run main.py
 ### 6. Public url of app
 
 - Go to [https://bot-genai.streamlit.app/](https://bot-genai.streamlit.app/)
+
+### 7. Documentation link
+
+- Go to [genai-gitlab-chatbot-doc](https://docs.google.com/document/d/1vcXfJhmAl73-FB9yRgvL-6V51FCzR5bhBYda1u42bUY/edit?usp=sharing)
