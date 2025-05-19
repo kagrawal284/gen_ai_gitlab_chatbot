@@ -9,8 +9,8 @@ This is a **Streamlit-based Retrieval-Augmented Generation (RAG) chatbot** that 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-chatbot-repo.git
-cd your-chatbot-repo
+git clone https://github.com/kagrawal284/gen_ai_gitlab_chatbot
+cd gen_ai_gitlab_chatbot
 ```
 
 ### 2. Set up virtual environment(optional but recommended)
@@ -39,8 +39,14 @@ USER_AGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 > - Go to [https://ai.google.dev/gemini-api/docs/api-key](https://ai.google.dev/gemini-api/docs/api-key)
 > - Click on **Get API key** and then **Create API Key**
 
-### 5. Run the app loacally
+### 5. Run the app locally
 
 ```bash
 streamlit run main.py
+```
+
+### 6. Public url of app
+
+```bash
+https://bot-genai.streamlit.app/
 ```
