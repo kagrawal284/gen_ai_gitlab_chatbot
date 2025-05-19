@@ -55,4 +55,4 @@ streamlit run main.py
 
 ### 8. Demonstration link
 
-- Go to [demo-genai-gitla-chatbot](https://drive.google.com/file/d/1jpdPuccmjlQgUUKUbsWf-8uWuEeBJFIi/view?usp=sharing)
+- Go to [demo-genai-gitlab-chatbot](https://drive.google.com/file/d/1jpdPuccmjlQgUUKUbsWf-8uWuEeBJFIi/view?usp=sharing)
