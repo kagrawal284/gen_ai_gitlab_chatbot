@@ -1,5 +1,5 @@
 """
-Main entry point for the GitLab Handbook RAG application.
+Main entry point for the GitLab Handbook and Direction RAG application.
 """
 import time
 import logging
