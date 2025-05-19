@@ -47,6 +47,4 @@ streamlit run main.py
 
 ### 6. Public url of app
 
-```bash
-[https://bot-genai.streamlit.app/](https://bot-genai.streamlit.app/)
-```
+- Go to [https://bot-genai.streamlit.app/](https://bot-genai.streamlit.app/)
